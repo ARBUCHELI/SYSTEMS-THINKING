@@ -1,0 +1,33 @@
+# 3. How to Use Systems Thinking
+--------------------------------
+
+* The power of mapping in systems thinking
+------------------------------------------
+
+* Two-sided relationship
+	
+	. Me
+		Blame is on me.
+
+	. You
+		Blame is on you.
+
+* Three-part relationship
+	
+	. Us
+	The dynamic between two people
+		Blame is on me.
+
+* Team Workflow Process
+-----------------------
+
+
+. Initiate			<--------> . Plan                            <--------> . Execute      			     <--------> . Close
+       . Define project scope		          . Management plan	                       . Dashoard and status reports		       . Lessons learned
+       . Appoint project team			  . Suppliers                                  . Readiness checklist			       . Documentation
+					          . Work breakdown structure                   . Deliverables				       . Closure report
+						  . Risk analysis
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
