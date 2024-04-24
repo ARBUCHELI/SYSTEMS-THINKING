@@ -48,3 +48,111 @@ Is the act of organizing information to make meaning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Learning to see the unknown
+-----------------------------
+
+Events <--- React
+
+
+. You didn't close a deal with a customer
+
+. Your teenager got in trouble at school
+
+. You didn't finish your to-do list today
+
+"What patterns underlie the things I am experiencing?"
+
+React ---> Predict
+
+* Getting Below the Surface
+---------------------------
+. Is this a single instance of a pattern?
+
+. Is this an emerging patter or behavior?
+
+. Is this a one-off event?
+
+	You didn't close a deal with a customer				Product sales are declining over time
+	---------------------------------------				-------------------------------------
+
+
+	Your teenager got in trouble at school				Uptick in outbursts and behavior issues
+	--------------------------------------				---------------------------------------
+
+	
+	You didn't finish your to-do list				Not finishing tasks is habitual
+	---------------------------------				-------------------------------
+
+
+Seeing mental models reframes how we think, design, predice, and react.
+
+	    Events <------------ React
+   System patterns ------------> Predict
+ System structures ------------> Design
+     Mental Models ------------> Reframe
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
