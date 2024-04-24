@@ -83,6 +83,67 @@ Mapping enhaces learning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Work Example
+--------------
+
+		----------------> Engineering		New Software Product
+		|		  -----------		--------------------
+		|					    UX         Price point
+		|					    |	       Margins
+		|		                       Is it useful    Time-saving
+	Product Manager				
+	---------------
+.Instinctive    |
+Qualities	|
+		|
+. Deep Skill    |		  Customer
+		----------------> --------
+
+
+
+
+The function of a product manager is establishing a relationship between the Engineering Team and the Customer.
+
+A product manager also must have a perspective.
+
+Remember that a perspective is made up of a point and a view.
+
+Example:
+--------
+. The perspective of an engineer about a new product maybe is.  
+- Is it useful?
+
+		New software product
+		--------------------
+			 UX
+			 |
+			 |
+			 |  
+                   Is it useful
+
+. Most of our thinking errors come from confusing the point with the perspective.
+
+* Perspective Circles (P - Circles)
+----------------------------------
+Combining a view with multiple points, creating multiple perspectives.
+
+. The perspective of the ucstome about a new product maybe is. 
+- Price point.
+- Time-saving.
+
+. The perspective of a sales person.
+- Profit margins.
+- But also useful and price as they are trying to close deals.
+
+. The perspective of the product manater will include all the parts of the product, and all the other perspectives.
+
+
+
+
+
+
+
+
 
 
 
