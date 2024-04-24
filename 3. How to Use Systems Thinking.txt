@@ -45,3 +45,75 @@ Mapping enhaces learning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* DSRP maps
+-----------
+
+* Distinctions
+--------------
+			Marketing Strategy 1					Marketing Strategy 2
+			--------------------					--------------------
+			
+* Systems
+---------
+			Marketing Strategy 1					Marketing Strategy 2
+			--------------------					--------------------
+			Strategy Part 1 					Strategy Part 1
+			Strategy Part 2						Strategy Part 2
+			Strategy Part 3						Strategy Part 3
+										Strategy Part 4
+
+
+* Relationships
+---------------
+			Marketing Strategy 1 <---------|Relationship|---------> Marketing Strategy 2
+			--------------------      	   Part 1		--------------------
+			   Strategy Part 1                 Part 2		   Strategy Part 1
+			   Strategy Part 2				           Strategy Part 2
+			   Strategy Part 3					   Strategy Part 3
+										   Strategy Part 4
+
+* Perspective
+-------------
+			Marketing Strategy 1 *					Marketing Strategy 2 +
+			--------------------					--------------------	
+							 New Product
+							    Price *
+						        User Interface +
+							    Value *
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
